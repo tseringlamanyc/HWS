@@ -3,5 +3,6 @@
     <pages>
         <page name='Structs'/>
         <page name='Protocols'/>
+        <page name='Class'/>
     </pages>
 </playground>
